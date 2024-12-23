@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+langchain-google-genai
+langchain-community
+langchain-huggingface
+pymupdf
